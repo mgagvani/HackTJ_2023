@@ -1,0 +1,1268 @@
+Taohan Lin
+condense this list so it is less specific
+tench, Tinca tinca
+goldfish, Carassius auratus
+great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias
+tiger shark, Galeocerdo cuvieri
+hammerhead, hammerhead shark
+electric ray, crampfish, numbfish, torpedo
+stingray
+cock
+hen
+ostrich, Struthio camelus
+brambling, Fringilla montifringilla
+goldfinch, Carduelis carduelis
+house finch, linnet, Carpodacus mexicanus
+junco, snowbird
+indigo bunting, indigo finch, indigo bird, Passerina cyanea
+robin, American robin, Turdus migratorius
+bulbul
+jay
+magpie
+chickadee
+water ouzel, dipper
+kite
+bald eagle, American eagle, Haliaeetus leucocephalus
+vulture
+great grey owl, great gray owl, Strix nebulosa
+European fire salamander, Salamandra salamandra
+common newt, Triturus vulgaris
+eft
+spotted salamander, Ambystoma maculatum
+axolotl, mud puppy, Ambystoma mexicanum
+bullfrog, Rana catesbeiana
+tree frog, tree-frog
+tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui
+loggerhead, loggerhead turtle, Caretta caretta
+leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea
+mud turtle
+terrapin
+box turtle, box tortoise
+banded gecko
+common iguana, iguana, Iguana iguana
+American chameleon, anole, Anolis carolinensis
+whiptail, whiptail lizard
+agama
+frilled lizard, Chlamydosaurus kingi
+alligator lizard
+Gila monster, Heloderma suspectum
+green lizard, Lacerta viridis
+African chameleon, Chamaeleo chamaeleon
+Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis
+African crocodile, Nile crocodile, Crocodylus niloticus
+American alligator, Alligator mississipiensis
+triceratops
+thunder snake, worm snake, Carphophis amoenus
+ringneck snake, ring-necked snake, ring snake
+hognose snake, puff adder, sand viper
+green snake, grass snake
+king snake, kingsnake
+garter snake, grass snake
+water snake
+vine snake
+night snake, Hypsiglena torquata
+boa constrictor, Constrictor constrictor
+rock python, rock snake, Python sebae
+Indian cobra, Naja naja
+green mamba
+sea snake
+horned viper, cerastes, sand viper, horned asp, Cerastes cornutus
+diamondback, diamondback rattlesnake, Crotalus adamanteus
+sidewinder, horned rattlesnake, Crotalus cerastes
+trilobite
+harvestman, daddy longlegs, Phalangium opilio
+scorpion
+black and gold garden spider, Argiope aurantia
+barn spider, Araneus cavaticus
+garden spider, Aranea diademata
+black widow, Latrodectus mactans
+tarantula
+wolf spider, hunting spider
+tick
+centipede
+black grouse
+ptarmigan
+ruffed grouse, partridge, Bonasa umbellus
+prairie chicken, prairie grouse, prairie fowl
+peacock
+quail
+partridge
+African grey, African gray, Psittacus erithacus
+macaw
+sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita
+lorikeet
+coucal
+bee eater
+hornbill
+hummingbird
+jacamar
+toucan
+drake
+red-breasted merganser, Mergus serrator
+goose
+
+tench
+goldfish
+great white shark
+tiger shark
+hammerhead
+electric ray
+stingray
+domestic chicken
+ostrich
+brambling
+goldfinch
+house finch
+junco
+indigo bunting
+robin
+bulbul
+jay
+magpie
+chickadee
+water ouzel
+kite
+bald eagle
+vulture
+great grey owl
+European fire salamander
+common newt
+eft
+spotted salamander
+axolotl
+bullfrog
+tree frog
+tailed frog
+loggerhead turtle
+leatherback turtle
+mud turtle
+terrapin
+box turtle
+banded gecko
+common iguana
+American chameleon
+whiptail lizard
+agama
+frilled lizard
+alligator lizard
+Gila monster
+green lizard
+African chameleon
+Komodo dragon
+African crocodile
+American alligator
+triceratops
+thunder snake
+ringneck snake
+hognose snake
+green snake
+king snake
+garter snake
+water snake
+vine snake
+night snake
+boa constrictor
+rock python
+Indian cobra
+green mamba
+sea snake
+horned viper
+diamondback
+sidewinder
+trilobite
+harvestman
+scorpion
+black and gold garden spider
+barn spider
+garden spider
+black widow
+tarantula
+wolf spider
+tick
+centipede
+black grouse
+ptarmigan
+ruffed grouse
+prairie chicken
+peacock
+quail
+partridge
+African grey parrot
+macaw
+sulphur-crested cockatoo
+lorikeet
+coucal
+bee eater
+hornbill
+hummingbird
+jacamar
+toucan
+drake
+red-breasted merganser
+goose
+
+
+
+Taohan Lin
+categorize this list
+tench, Tinca tinca
+goldfish, Carassius auratus
+great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias
+tiger shark, Galeocerdo cuvieri
+hammerhead, hammerhead shark
+electric ray, crampfish, numbfish, torpedo
+stingray
+cock
+hen
+ostrich, Struthio camelus
+brambling, Fringilla montifringilla
+goldfinch, Carduelis carduelis
+house finch, linnet, Carpodacus mexicanus
+junco, snowbird
+indigo bunting, indigo finch, indigo bird, Passerina cyanea
+robin, American robin, Turdus migratorius
+bulbul
+jay
+magpie
+chickadee
+water ouzel, dipper
+kite
+bald eagle, American eagle, Haliaeetus leucocephalus
+vulture
+great grey owl, great gray owl, Strix nebulosa
+European fire salamander, Salamandra salamandra
+common newt, Triturus vulgaris
+eft
+spotted salamander, Ambystoma maculatum
+axolotl, mud puppy, Ambystoma mexicanum
+bullfrog, Rana catesbeiana
+tree frog, tree-frog
+tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui
+loggerhead, loggerhead turtle, Caretta caretta
+leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea
+mud turtle
+terrapin
+box turtle, box tortoise
+banded gecko
+common iguana, iguana, Iguana iguana
+American chameleon, anole, Anolis carolinensis
+whiptail, whiptail lizard
+agama
+frilled lizard, Chlamydosaurus kingi
+alligator lizard
+Gila monster, Heloderma suspectum
+green lizard, Lacerta viridis
+African chameleon, Chamaeleo chamaeleon
+Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis
+African crocodile, Nile crocodile, Crocodylus niloticus
+American alligator, Alligator mississipiensis
+triceratops
+thunder snake, worm snake, Carphophis amoenus
+ringneck snake, ring-necked snake, ring snake
+hognose snake, puff adder, sand viper
+green snake, grass snake
+king snake, kingsnake
+garter snake, grass snake
+water snake
+vine snake
+night snake, Hypsiglena torquata
+boa constrictor, Constrictor constrictor
+rock python, rock snake, Python sebae
+Indian cobra, Naja naja
+green mamba
+sea snake
+horned viper, cerastes, sand viper, horned asp, Cerastes cornutus
+diamondback, diamondback rattlesnake, Crotalus adamanteus
+sidewinder, horned rattlesnake, Crotalus cerastes
+trilobite
+harvestman, daddy longlegs, Phalangium opilio
+scorpion
+black and gold garden spider, Argiope aurantia
+barn spider, Araneus cavaticus
+garden spider, Aranea diademata
+black widow, Latrodectus mactans
+tarantula
+wolf spider, hunting spider
+tick
+centipede
+black grouse
+ptarmigan
+ruffed grouse, partridge, Bonasa umbellus
+prairie chicken, prairie grouse, prairie fowl
+peacock
+quail
+partridge
+African grey, African gray, Psittacus erithacus
+macaw
+sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita
+lorikeet
+coucal
+bee eater
+hornbill
+hummingbird
+jacamar
+toucan
+drake
+red-breasted merganser, Mergus serrator
+goose
+Here is a categorized list of the given items:
+
+Fish:
+
+Tench, Tinca tinca
+Goldfish, Carassius auratus
+Sharks:
+
+Great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias
+Tiger shark, Galeocerdo cuvieri
+Hammerhead, hammerhead shark
+Electric ray, crampfish, numbfish, torpedo
+Stingray
+Birds:
+
+Cock
+Hen
+Ostrich, Struthio camelus
+Brambling, Fringilla montifringilla
+Goldfinch, Carduelis carduelis
+House finch, linnet, Carpodacus mexicanus
+Junco, snowbird
+Indigo bunting, indigo finch, indigo bird, Passerina cyanea
+Robin, American robin, Turdus migratorius
+Bulbul
+Jay
+Magpie
+Chickadee
+Water ouzel, dipper
+Kite
+Bald eagle, American eagle, Haliaeetus leucocephalus
+Vulture
+Great grey owl, great gray owl, Strix nebulosa
+Amphibians and Reptiles:
+
+European fire salamander, Salamandra salamandra
+Common newt, Triturus vulgaris
+Eft
+Spotted salamander, Ambystoma maculatum
+Axolotl, mud puppy, Ambystoma mexicanum
+Bullfrog, Rana catesbeiana
+Tree frog, tree-frog
+Tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui
+Loggerhead, loggerhead turtle, Caretta caretta
+Leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea
+Mud turtle
+Terrapin
+Box turtle, box tortoise
+Banded gecko
+Common iguana, iguana, Iguana iguana
+American chameleon, anole, Anolis carolinensis
+Whiptail, whiptail lizard
+Agama
+Frilled lizard, Chlamydosaurus kingi
+Alligator lizard
+Gila monster, Heloderma suspectum
+Green lizard, Lacerta viridis
+African chameleon, Chamaeleo chamaeleon
+Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis
+African crocodile, Nile crocodile, Crocodylus niloticus
+American alligator, Alligator mississipiensis
+Snakes:
+
+Thunder snake, worm snake, Carphophis amoenus
+Ringneck snake, ring-necked snake, ring snake
+Hognose snake, puff adder, sand viper
+Green snake, grass snake
+King snake, kingsnake
+Garter snake, grass snake
+Water snake
+Vine snake
+Night snake, Hypsiglena torquata
+Boa constrictor, Constrictor constrictor
+Rock python, rock snake, Python sebae
+Indian cobra, Naja naja
+Green mamba
+Sea snake
+Horned viper, cerastes, sand viper, horned asp, Cerastes cornutus
+Diamondback, diamondback rattlesnake, Crotalus adamanteus
+Sidewinder, horned rattlesnake, Crotalus cerastes
+
+
+
+Taohan Lin
+categorize this list
+plate rack
+plow, plough
+plunger, plumber's helper
+Polaroid camera, Polaroid Land camera
+pole
+police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
+poncho
+pool table, billiard table, snooker table
+pop bottle, soda bottle
+pot, flowerpot
+potter's wheel
+power drill
+prayer rug, prayer mat
+printer
+prison, prison house
+projectile, missile
+projector
+puck, hockey puck
+punching bag, punch bag, punching ball, punchball
+purse
+quill, quill pen
+quilt, comforter, comfort, puff
+racer, race car, racing car
+racket, racquet
+radiator
+radio, wireless
+radio telescope, radio reflector
+rain barrel
+recreational vehicle, RV, R.V.
+reel
+reflex camera
+refrigerator, icebox
+remote control, remote
+restaurant, eating house, eating place, eatery
+revolver, six-gun, six-shooter
+rifle
+rocking chair, rocker
+rotisserie
+rubber eraser, rubber, pencil eraser
+rugby ball
+rule, ruler
+running shoe
+safe
+safety pin
+saltshaker, salt shaker
+sandal
+sarong
+sax, saxophone
+scabbard
+scale, weighing machine
+school bus
+schooner
+scoreboard
+screen, CRT screen
+screw
+screwdriver
+seat belt, seatbelt
+sewing machine
+shield, buckler
+shoe shop, shoe-shop, shoe store
+shoji
+shopping basket
+shopping cart
+shovel
+shower cap
+shower curtain
+ski
+ski mask
+sleeping bag
+slide rule, slipstick
+sliding door
+slot, one-armed bandit
+snorkel
+snowmobile
+snowplow, snowplough
+soap dispenser
+soccer ball
+sock
+solar dish, solar collector, solar furnace
+sombrero
+soup bowl
+space bar
+space heater
+space shuttle
+spatula
+speedboat
+spider web, spider's web
+spindle
+sports car, sport car
+spotlight, spot
+stage
+steam locomotive
+steel arch bridge
+steel drum
+stethoscope
+stole
+stone wall
+stopwatch, stop watch
+stove
+strainer
+streetcar, tram, tramcar, trolley, trolley car
+stretcher
+studio couch, day bed
+stupa, tope
+submarine, pigboat, sub, U-boat
+suit, suit of clothes
+sundial
+sunglass
+sunglasses, dark glasses, shades
+sunscreen, sunblock, sun blocker
+suspension bridge
+swab, swob, mop
+sweatshirt
+swimming trunks, bathing trunks
+swing
+switch, electric switch, electrical switch
+syringe
+table lamp
+tank, army tank, armored combat vehicle, armoured combat vehicle
+tape player
+teapot
+teddy, teddy bear
+television, television system
+tennis ball
+thatch, thatched roof
+theater curtain, theatre curtain
+thimble
+thresher, thrasher, threshing machine
+throne
+tile roof
+toaster
+tobacco shop, tobacconist shop, tobacconist
+toilet seat
+torch
+totem pole
+tow truck, tow car, wrecker
+toyshop
+tractor
+trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi
+tray
+trench coat
+tricycle, trike, velocipede
+trimaran
+tripod
+triumphal arch
+trolleybus, trolley coach, trackless trolley
+trombone
+tub, vat
+turnstile
+typewriter keyboard
+umbrella
+unicycle, monocycle
+upright, upright piano
+vacuum, vacuum cleaner
+vase
+vault
+velvet
+vending machine
+vestment
+viaduct
+violin, fiddle
+volleyball
+waffle iron
+wall clock
+wallet, billfold, notecase, pocketbook
+wardrobe, closet, press
+warplane, military plane
+washbasin, handbasin, washbowl, lavabo, wash-hand basin
+washer, automatic washer, washing machine
+water bottle
+water jug
+water tower
+whiskey jug
+whistle
+wig
+window screen
+window shade
+Windsor tie
+wine bottle
+wing
+wok
+wooden spoon
+wool, woolen, woollen
+worm fence, snake fence, snake-rail fence, Virginia fence
+wreck
+yawl
+yurt
+Here's a categorized list:
+
+Kitchen and Dining:
+
+Plate rack
+Pop bottle, soda bottle
+Pot, flowerpot
+Pottery wheel
+Rotisserie
+Saltshaker, salt shaker
+Soup bowl
+Tea pot
+Waffle iron
+Whiskey jug
+Wine bottle
+Wooden spoon
+Furniture:
+
+Rocking chair, rocker
+Studio couch, day bed
+Throne
+Wardrobe, closet, press
+Home Appliances:
+
+Power drill
+Printer
+Projector
+Refrigerator, icebox
+Remote control, remote
+Sewing machine
+Shower cap
+Shower curtain
+Stove
+Tape player
+Toaster
+Vacuum, vacuum cleaner
+Washer, automatic washer, washing machine
+Electronics:
+
+Polaroid camera, Polaroid Land camera
+Radio, wireless
+Radio telescope, radio reflector
+Reflex camera
+Screen, CRT screen
+Space heater
+Spotlight, spot
+Television, television system
+Tools:
+
+Plow, plough
+Plunger, plumber's helper
+Power drill
+Screw
+Screwdriver
+Shovel
+Swab, swob, mop
+Syringe
+Sports and Games:
+
+Pool table, billiard table, snooker table
+Puck, hockey puck
+Racer, race car, racing car
+Racket, racquet
+Rugby ball
+Ski
+Ski mask
+Soccer ball
+Speedboat
+Sports car, sport car
+Spotlight, spot
+Swimming trunks, bathing trunks
+Swing
+Tennis ball
+Volleyball
+Transportation:
+
+Pole
+Police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
+Recreational vehicle, RV, R.V.
+Schooner
+Snowmobile
+Snowplow, snowplough
+Space shuttle
+Submarine, pigboat, sub, U-boat
+Tank, army tank, armored combat vehicle, armoured combat vehicle
+Tow truck, tow car, wrecker
+Trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi
+Trimaran
+Trolleybus, trolley coach, trackless trolley
+Yawl
+Clothing and Accessories:
+
+Poncho
+Purse
+Running shoe
+Sandal
+Sarong
+Sax, saxophone
+Shield, buckler
+Shoeshop, shoe-shop, shoe store
+Shoji
+Sock
+Sunglass
+Sunglasses, dark glasses, shades
+Sunscreen, sunblock, sun blocker
+Sweatshirt
+Trench coat
+Upright, upright piano
+Unicycle, monocycle
+Velvet
+Windsor tie
+Wig
+Miscellaneous:
+
+Projectile, missile
+Quill, quill pen
+Quilt, comforter, comfort, puff
+Rule, ruler
+Safety pin
+Sax, saxophone
+Scale, weighing machine
+Scoreboard
+Scabbard
+Spindle
+Spider web, spider's web
+Stop watch, stopwatch
+Strainer
+Thimble
+Thresher, thrasher, threshing machine
+Tile roof
+Torch
+Totem pole
+Turnstile
+Typewriter keyboard
+Umbrella
+Vault
+Vase
+Viaduct
+Violin, fiddle
+Wall clock
+Wallet, billfold, notecase, pocketbook
+Water bottle
+Water jug
+
+
+
+Taohan Lin
+categorize this list
+folding chair
+football helmet
+forklift
+fountain
+fountain pen
+four-poster
+freight car
+French horn, horn
+frying pan, frypan, skillet
+fur coat
+garbage truck, dustcart
+gasmask, respirator, gas helmet
+gas pump, gasoline pump, petrol pump, island dispenser
+goblet
+go-kart
+golf ball
+golfcart, golf cart
+gondola
+gong, tam-tam
+gown
+grand piano, grand
+greenhouse, nursery, glasshouse
+grille, radiator grille
+grocery store, grocery, food market, market
+guillotine
+hair slide
+hair spray
+half track
+hammer
+hamper
+hand blower, blow dryer, blow drier, hair dryer, hair drier
+hand-held computer, hand-held microcomputer
+handkerchief, hankie, hanky, hankey
+hard disc, hard disk, fixed disk
+harmonica, mouth organ, harp, mouth harp
+harp
+harvester, reaper
+hatchet
+holster
+home theater, home theatre
+honeycomb
+hook, claw
+hoopskirt, crinoline
+horizontal bar, high bar
+horse cart, horse-cart
+hourglass
+iPod
+iron, smoothing iron
+jack-o'-lantern
+jean, blue jean, denim
+jeep, landrover
+jersey, T-shirt, tee shirt
+jigsaw puzzle
+jinrikisha, ricksha, rickshaw
+joystick
+kimono
+knee pad
+knot
+lab coat, laboratory coat
+ladle
+lampshade, lamp shade
+laptop, laptop computer
+lawn mower, mower
+lens cap, lens cover
+letter opener, paper knife, paperknife
+library
+lifeboat
+lighter, light, igniter, ignitor
+limousine, limo
+liner, ocean liner
+lipstick, lip rouge
+Loafer
+lotion
+loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+loupe, jeweler's loupe
+lumbermill, sawmill
+magnetic compass
+mailbag, postbag
+mailbox, letter box
+maillot
+maillot, tank suit
+manhole cover
+maraca
+marimba, xylophone
+mask
+matchstick
+maypole
+maze, labyrinth
+measuring cup
+medicine chest, medicine cabinet
+megalith, megalithic structure
+microphone, mike
+microwave, microwave oven
+military uniform
+milk can
+minibus
+miniskirt, mini
+minivan
+missile
+mitten
+mixing bowl
+mobile home, manufactured home
+Model T
+modem
+monastery
+monitor
+moped
+mortar
+mortarboard
+mosque
+mosquito net
+motor scooter, scooter
+mountain bike, all-terrain bike, off-roader
+mountain tent
+mouse, computer mouse
+mousetrap
+moving van
+muzzle
+nail
+neck brace
+necklace
+nipple
+notebook, notebook computer
+obelisk
+oboe, hautboy, hautbois
+ocarina, sweet potato
+odometer, hodometer, mileometer, milometer
+oil filter
+organ, pipe organ
+oscilloscope, scope, cathode-ray oscilloscope, CRO
+overskirt
+oxcart
+oxygen mask
+packet
+paddle, boat paddle
+paddlewheel, paddle wheel
+padlock
+paintbrush
+pajama, pyjama, pj's, jammies
+palace
+panpipe, pandean pipe, syrinx
+paper towel
+parachute, chute
+parallel bars, bars
+park bench
+parking meter
+passenger car, coach, carriage
+patio, terrace
+pay-phone, pay-station
+pedestal, plinth, footstall
+pencil box, pencil case
+pencil sharpener
+perfume, essence
+Petri dish
+photocopier
+pick, plectrum, plectron
+pickelhaube
+picket fence, paling
+pickup, pickup truck
+pier
+piggy bank, penny bank
+pill bottle
+pillow
+ping-pong ball
+pinwheel
+pirate, pirate ship
+pitcher, ewer
+plane, carpenter's plane, woodworking plane
+planetarium
+plastic bag
+Here are the categories for the given list:
+
+Furniture: folding chair, four-poster, greenhouse, grille, hoopskirt, jack-o'-lantern, lampshade, park bench, pedestal, pillow
+Tools and equipment: football helmet, forklift, frying pan, gas mask, gas pump, goblet, golf ball, golf cart, gong, hammer, hand blower, hard disk, hatchet, hook, hourglass, jigsaw puzzle, joystick, knee pad, knot, ladle, lens cap, letter opener, lifeboat, limousine, lumbermill, magnetic compass, mailbox, manhole cover, matchstick, measuring cup, milk can, minibus, missile, mixing bowl, mousetrap, nail, neck brace, noteboook, odometer, oil filter, oscilloscope, padlock, paintbrush, paper towel, parallel bars, parking meter, patio, pay-phone, pencil box, pencil sharpener, Petri dish, photocopier, pick, pickelhaube, pier, pill bottle, ping-pong ball, pinwheel, pitcher, plane
+Musical instruments: French horn, harmonica, harp, maraca, marimba, oboe, ocarina
+Clothing: fur coat, gown, jersey, kimono, Loafer, miniskirt, necktie, pajama,
+Vehicles: freight car, go-kart, horse cart, jeep, limousine, liner, mobile home, Model T, minivan, moped, mountain bike, moving van, scooter, passenger car, pickup truck
+Buildings and structures: fountain, greenhouse, grocery store, guillotine, library, megalith, monastery, mosque, mountain tent, obelisk, oscilloscope, palace, parking meter, planetarium, plastic bag, plastic bag
+Miscellaneous: fountain pen, hair slide, hair spray, half track, holster, home theater, honeycomb, hourglass, iPod, lipstick, lotion, loudspeaker, loupe, necklace, nipple, overskirt, parachute, pay-station, pencil case, perfume, pirate ship, plastic bag, playground, postbag, pyjama, rake, respirator, sawmill, scoop, shirt, shoe shop, speaker, stethoscope, street sign, sunglasses, swimsuit, tape player, teapot, teddy, television, thermometer, throne, tire, titanic, toilet tissue, toyshop, tractor trailer, trailer truck, tray, trench coat, tripod, typewriter, umbrella, urinal, vacuum, vat, vending machine, vestment, violin, volleyball, waffle iron, wallet, ward robe, washing machine, watch, water bottle, water jug, water tower, whiskey jug, wig, window shade, wine bottle, wing, wok.
+
+
+
+Taohan Lin
+categorize this list
+dogsled, dog sled, dog sleigh
+dome
+doormat, welcome mat
+drilling platform, offshore rig
+drum, membranophone, tympan
+drumstick
+dumbbell
+Dutch oven
+electric fan, blower
+electric guitar
+electric locomotive
+entertainment center
+envelope
+espresso maker
+face powder
+feather boa, boa
+file, file cabinet, filing cabinet
+fireboat
+fire engine, fire truck
+fire screen, fireguard
+flagpole, flagstaff
+flute, transverse flute
+Types of objects:
+
+dogsled, dog sled, dog sleigh
+dome
+doormat, welcome mat
+drilling platform, offshore rig
+drum, membranophone, tympan
+drumstick
+dumbbell
+Dutch oven
+electric fan, blower
+electric guitar
+electric locomotive
+entertainment center
+envelope
+espresso maker
+face powder
+feather boa, boa
+file, file cabinet, filing cabinet
+fireboat
+fire engine, fire truck
+fire screen, fireguard
+flagpole, flagstaff
+flute, transverse flute
+Categories:
+
+Outdoor Equipment: dogsled, dog sled, dog sleigh, dome, drilling platform, offshore rig, fireboat, fire engine, fire truck, flagpole, flagstaff
+Musical Instruments: drum, membranophone, tympan, drumstick, flute, transverse flute, electric guitar
+Household Items: doormat, welcome mat, Dutch oven, electric fan, blower, entertainment center, envelope, espresso maker, face powder, feather boa, boa, file, file cabinet, filing cabinet, fire screen, fireguard
+Fitness Equipment: dumbbell,
+
+
+
+Taohan Lin
+condense this list
+desk
+desktop computer
+dial telephone, dial phone
+diaper, nappy, napkin
+digital clock
+digital watch
+dining table, board
+dishrag, dishcloth
+dishwasher, dish washer, dishwashing machine
+disk brake, disc brake
+dock, dockage, docking facility
+desk
+desktop computer
+dial telephone, dial phone
+diaper, nappy, napkin
+digital clock
+digital watch
+dining table, board
+dishrag, dishcloth
+dishwasher, dish washer, dishwashing machine
+disk brake, disc brake
+dock, dockage, docking facility
+This list contains various items related to daily use and can be categorized as household items, office equipment, and transportation infrastructure.
+
+
+
+
+Taohan Lin
+condense this list
+abacus
+abaya
+academic gown, academic robe, judge's robe
+accordion, piano accordion, squeeze box
+acoustic guitar
+aircraft carrier, carrier, flattop, attack aircraft carrier
+airliner
+airship, dirigible
+altar
+ambulance
+amphibian, amphibious vehicle
+analog clock
+apiary, bee house
+apron
+ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+assault rifle, assault gun
+backpack, back pack, knapsack, packsack, rucksack, haversack
+bakery, bakeshop, bakehouse
+balance beam, beam
+balloon
+ballpoint, ballpoint pen, ballpen, Biro
+Band Aid
+banjo
+bannister, banister, balustrade, balusters, handrail
+barbell
+barber chair
+barbershop
+barn
+barometer
+barrel, cask
+barrow, garden cart, lawn cart, wheelbarrow
+baseball
+basketball
+bassinet
+bassoon
+bathing cap, swimming cap
+bath towel
+bathtub, bathing tub, bath, tub
+beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+beacon, lighthouse, beacon light, pharos
+beaker
+bearskin, busby, shako
+beer bottle
+beer glass
+bell cote, bell cot
+bib
+bicycle-built-for-two, tandem bicycle, tandem
+bikini, two-piece
+binder, ring-binder
+binoculars, field glasses, opera glasses
+birdhouse
+boathouse
+bobsled, bobsleigh, bob
+bolo tie, bolo, bola tie, bola
+bonnet, poke bonnet
+bookcase
+bookshop, bookstore, bookstall
+bottlecap
+bow
+bow tie, bow-tie, bowtie
+brass, memorial tablet, plaque
+brassiere, bra, bandeau
+breakwater, groin, groyne, mole, bulwark, seawall, jetty
+breastplate, aegis, egis
+broom
+bucket, pail
+buckle
+bulletproof vest
+bullet train, bullet
+butcher shop, meat market
+cab, hack, taxi, taxicab
+caldron, cauldron
+candle, taper, wax light
+cannon
+canoe
+can opener, tin opener
+cardigan
+car mirror
+carousel, carrousel, merry-go-round, roundabout, whirligig
+carpenter's kit, tool kit
+carton
+car wheel
+cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM
+cassette
+cassette player
+castle
+catamaran
+CD player
+cello, violoncello
+cellular telephone, cellular phone, cellphone, cell, mobile phone
+chain
+chainlink fence
+chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour
+chain saw, chainsaw
+chest
+chiffonier, commode
+chime, bell, gong
+china cabinet, china closet
+Christmas stocking
+church, church building
+cinema, movie theater, movie theatre, movie house, picture palace
+cleaver, meat cleaver, chopper
+cliff dwelling
+cloak
+clog, geta, patten, sabot
+cocktail shaker
+coffee mug
+coffeepot
+coil, spiral, volute, whorl, helix
+combination lock
+computer keyboard, keypad
+confectionery, confectionary, candy store
+container ship, containership, container vessel
+convertible
+corkscrew, bottle screw
+cornet, horn, trumpet, trump
+cowboy boot
+cowboy hat, ten-gallon hat
+cradle
+crane
+crash helmet
+crate
+crib, cot
+Crock Pot
+croquet ball
+crutch
+cuirass
+abacus, abaya, academic gown, accordion, acoustic guitar, aircraft carrier, airliner, airship, altar, ambulance, amphibian, analog clock, apiary, apron, ashcan, assault rifle, backpack, bakery, balance beam, balloon, ballpoint, banister, barbell, barber chair, barbershop, barn, barometer, barrel, barrow, baseball, basketball, bassinet, bassoon, bathing cap, bath towel, bathtub, beach wagon, beacon, beaker, bearskin, beer bottle, beer glass, bell cote, bib, bicycle-built-for-two, bikini, binder, binoculars, birdhouse, boathouse, bobsled, bolo tie, bonnet, bookcase, bookshop, bottlecap, bow, bow tie, brass, brassiere, breakwater, breastplate, broom, bucket, buckle, bulletproof vest, bullet train, butcher shop, cab, caldron, candle, cannon, canoe, can opener, cardigan, car mirror, carousel, carpenter's kit, carton, car wheel, cash machine, cassette, cassette player, castle, catamaran, CD player, cello, cellular telephone, chain, chainlink fence, chain mail, chain saw, chest, chiffonier, chime, china cabinet, Christmas stocking, church, cinema, cleaver, cliff dwelling, cloak, clog, cocktail shaker, coffee mug, coffeepot, coil, combination lock, computer keyboard, confectionery, container ship, convertible, corkscrew, cornet, cowboy boot, cowboy hat, cradle, crane, crash helmet, crate, crib, Crock Pot, croquet ball, crutch, cuirass
+
+
+
+
+Taohan Lin
+categorize this list
+abacus
+abaya
+academic gown, academic robe, judge's robe
+accordion, piano accordion, squeeze box
+acoustic guitar
+aircraft carrier, carrier, flattop, attack aircraft carrier
+airliner
+airship, dirigible
+altar
+ambulance
+amphibian, amphibious vehicle
+analog clock
+apiary, bee house
+apron
+ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+assault rifle, assault gun
+backpack, back pack, knapsack, packsack, rucksack, haversack
+bakery, bakeshop, bakehouse
+balance beam, beam
+balloon
+ballpoint, ballpoint pen, ballpen, Biro
+Band Aid
+banjo
+bannister, banister, balustrade, balusters, handrail
+barbell
+barber chair
+barbershop
+barn
+barometer
+barrel, cask
+barrow, garden cart, lawn cart, wheelbarrow
+baseball
+basketball
+bassinet
+bassoon
+bathing cap, swimming cap
+bath towel
+bathtub, bathing tub, bath, tub
+beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+beacon, lighthouse, beacon light, pharos
+beaker
+bearskin, busby, shako
+beer bottle
+beer glass
+bell cote, bell cot
+bib
+bicycle-built-for-two, tandem bicycle, tandem
+bikini, two-piece
+binder, ring-binder
+binoculars, field glasses, opera glasses
+birdhouse
+boathouse
+bobsled, bobsleigh, bob
+bolo tie, bolo, bola tie, bola
+bonnet, poke bonnet
+bookcase
+bookshop, bookstore, bookstall
+bottlecap
+bow
+bow tie, bow-tie, bowtie
+brass, memorial tablet, plaque
+brassiere, bra, bandeau
+breakwater, groin, groyne, mole, bulwark, seawall, jetty
+breastplate, aegis, egis
+broom
+bucket, pail
+buckle
+bulletproof vest
+bullet train, bullet
+butcher shop, meat market
+cab, hack, taxi, taxicab
+caldron, cauldron
+candle, taper, wax light
+cannon
+canoe
+can opener, tin opener
+cardigan
+car mirror
+carousel, carrousel, merry-go-round, roundabout, whirligig
+carpenter's kit, tool kit
+carton
+car wheel
+cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM
+cassette
+cassette player
+castle
+catamaran
+CD player
+cello, violoncello
+cellular telephone, cellular phone, cellphone, cell, mobile phone
+chain
+chainlink fence
+chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour
+chain saw, chainsaw
+chest
+chiffonier, commode
+chime, bell, gong
+china cabinet, china closet
+Christmas stocking
+church, church building
+cinema, movie theater, movie theatre, movie house, picture palace
+cleaver, meat cleaver, chopper
+cliff dwelling
+cloak
+clog, geta, patten, sabot
+cocktail shaker
+coffee mug
+coffeepot
+coil, spiral, volute, whorl, helix
+combination lock
+computer keyboard, keypad
+confectionery, confectionary, candy store
+container ship, containership, container vessel
+convertible
+corkscrew, bottle screw
+cornet, horn, trumpet, trump
+cowboy boot
+cowboy hat, ten-gallon hat
+cradle
+crane
+crash helmet
+crate
+crib, cot
+Crock Pot
+croquet ball
+crutch
+cuirass
+Here's a categorized list of the items:
+
+Mathematics: abacus
+Clothing: abaya, academic gown, academic robe, judge's robe, bathing cap, swimming cap, bib, brassiere, bra, bandeau, bow tie, bow-tie, bowtie, cardigan, cloak, clog, geta, patten, sabot, cowboy boot, cowboy hat, ten-gallon hat, cradle
+Musical Instruments: accordion, piano accordion, squeeze box, acoustic guitar, banjo, bassoon, bolo tie, bolo, bola tie, bola, cello, violoncello, cornet, horn, trumpet, trump
+Transportation: aircraft carrier, carrier, flattop, attack aircraft carrier, airliner, airship, dirigible, amphibian, amphibious vehicle, beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon, bobsled, bobsleigh, bob, cab, hack, taxi, taxicab, canoe, catamaran, convertible, container ship, containership, container vessel, crane
+Food and Beverage: bakery, bakeshop, bakehouse, beer bottle, beer glass, coffeepot, coffee mug, confectionery, confectionary, candy store, Crock Pot
+Furniture: altar, balance beam, beam, barber chair, barbershop, barn, bookcase, bookshop, bookstore, bookstall, brass, memorial tablet, plaque, breakwater, groin, groyne, mole, bulwark, seawall, jetty, bucket, pail, buffet, chiffonier, commode, china cabinet, china closet, chest, crate, crib, cot
+Tools and Utensils: ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin, assault rifle, assault gun, backpack, back pack, knapsack, packsack, rucksack, haversack, balance beam, beam, barber chair, barbershop, barn, bookcase, bookshop, bookstore, bookstall, butcher shop, meat market, caldron, cauldron, can opener, tin opener, carpenter's kit, tool kit, carousel, carrousel, merry-go-round, roundabout, whirligig, cassette, cassette player, chain saw, chainsaw, cleaver, meat cleaver, chopper, combination lock, computer keyboard, keypad, cork screw, bottle screw, croquet ball, crutch, cuirass, hammer
+Household Items: air conditioner, analog clock, apiary, bee house, apron, bathtub, bathing tub, bath, tub, beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon, bed, bench, blender, bloodmobile, bookcase, bread box, bunk bed, cabinet, calculator, camera, candle, taper, wax light, canopy bed, car mirror, carpet, ceiling fan, cell phone, cellular telephone, cellular phone, cellphone, cell, mobile phone, chamber pot, china cabinet, china closet, Christmas stocking, church, church building, cinema, movie theater, movie theatre, movie house, picture palace, clothes dryer, clothes line, clothespin, coat rack, coffee maker, coil, spiral, volute, whorl, helix, computer, copier, corded phone, cordless phone, couch, couch bed, counting machine, crane, crib, cot, cup, cutlery, dishwasher, disk brake, diskette, dock, door, dryer, dustbin, electronic organ, excavator, fan,
