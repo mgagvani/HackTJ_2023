@@ -2,7 +2,7 @@
 
 ### AUDVI is a cost-effective, 100% offline aid for helping the visually impaired see the world around them. By using low-power MCUs, users don't need to recharge the device or plug in it frequently.
 
-![img](/path/to/file)![img](/path/to/file)![1677986646458](image/README/1677986646458.png)![](/path/to/file)![](/path/to/file)
+![1677986646458](image/README/1677986646458.png)
 
 #### Setup
 
