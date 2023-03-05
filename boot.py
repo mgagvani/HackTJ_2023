@@ -8,6 +8,7 @@ import KPU as kpu
 import gc, sys
 import machine
 
+LOOKUP_TABLE = {"oxygen mask": "person",  "military uniform": "person", "beagle": "person", "bow tie, bow-tie, bowtie": "person", "ski mask": "person", "hair spray": "person", "lab coat, laboratory coat": "person", "wig": "person", "seat belt, seatbelt": "person", "book jacket, dust cover, dust jacket, dust wrapper": "person", "gasmask, respirator, gas helmet": "person", "neck brace": "person", "television, television system": "person", "groom, bridegroom": "person", "toilet tissue, toilet paper, bathroom tissue": "person", "torch": "person", "sunglasses, dark glasses, shades": "person", "sunglass": "person", "snorkel": "person", "cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM": "person", "mortarboard": "person", "bathtub, bathing tub, bath, tub": "person", "mask": "person",}
 def main(labels = None, model_addr="/sd/m.kmodel", lcd_rotation=0, sensor_hmirror=False, sensor_vflip=False):
     gc.collect()
 
@@ -39,13 +40,18 @@ def main(labels = None, model_addr="/sd/m.kmodel", lcd_rotation=0, sensor_hmirro
             plist=fmap[:]
             pmax=max(plist)
             max_index=plist.index(pmax)
+            # turn on the audio
+            pred = labels[max_index].strip()
+            # check lookup table
+            if pred in LOOKUP_TABLE.keys():
+                pred = LOOKUP_TABLE[pred]
             if counter % 2 == 0:
-                img.draw_string(0,0, "%.2f\n%s" %(pmax, labels[max_index].strip()), scale=2, color=(255, 0, 0))
+                img.draw_string(0,0, "%.2f\n%s" %(pmax, pred), scale=2, color=(255, 0, 0))
                 img.draw_string(0, 200, "t:%dms" %(t), scale=2, color=(255, 0, 0))
                 lcd.display(img)
                 print(labels[max_index].strip())
-            # turn on the audio
-            player = audio.Audio(path="/sd/audio/"+labels[max_index].strip()+".wav")
+
+            player = audio.Audio(path="/sd/audio/"+pred+".wav")
             player.volume(99)
             wav_info = player.play_process(wav_dev)
             print("wav file head information: ", wav_info)
@@ -60,7 +66,7 @@ def main(labels = None, model_addr="/sd/m.kmodel", lcd_rotation=0, sensor_hmirro
                     print("format error")
                     break
                 elif ret == 0:
-                    print("end of: " + labels[max_index].strip())
+                    print("end of: " + pred)
                     break
             player.finish()
 
